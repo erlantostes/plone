@@ -1,0 +1,16 @@
+------
+2018-10-17T08:13:42 INFO ZServer HTTP server started at Wed Oct 17 08:13:42 2018
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2018-10-17T08:13:42 INFO Zope Set effective user to "plone_daemon"
+------
+2018-10-17T08:13:43 INFO ZODB.blob (7330) Blob directory `/opt/plone/zinstance/var/blobstorage` is unused and has no layout marker set. Selected `bushy` layout. 
+------
+2018-10-17T08:13:43 INFO ZODB.blob (7330) Blob temporary directory '/opt/plone/zinstance/var/blobstorage/tmp' does not exist. Created new directory.
+------
+2018-10-17T08:13:43 WARNING ZODB.blob (7330) Blob dir /opt/plone/zinstance/var/blobstorage/ has insecure mode setting
+------
+2018-10-17T08:13:48 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2018-10-17T08:13:51 INFO Zope Ready to handle requests
